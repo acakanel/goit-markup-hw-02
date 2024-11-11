@@ -11,7 +11,7 @@
     color: #4d5ae5;
     font-weight:700;
     font-size: 18px;
-    line-height: 21px;
+    line-height: 1.16;
     width: 44px;
     height: 21px;
     font-family: 'Raleway', sans-serif;
@@ -22,7 +22,7 @@
     color: #2E2F42;
         font-weight: 700;
         font-size: 18px;
-        line-height: 21px;
+        line-height: 1.16;
         width: 71px;
         height: 21px;
         font-family: 'Raleway', sans-serif;
@@ -36,7 +36,7 @@
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 2%;
     color: #2E2F42;
     list-style-type: none;
@@ -50,7 +50,7 @@
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 2%;
     color: #434455;
     list-style-type: none;
@@ -64,7 +64,7 @@
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     font-size: 56px;
-    line-height: 60px;
+    line-height: 1.07;
     letter-spacing: 2%;
     text-align: center;
     color: #FFFFFF;
@@ -104,7 +104,7 @@
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     font-size: 36px;
-    line-height: 40px;
+    line-height: 1.11;
     letter-spacing: 2%;
     text-align: center;
     color: #2E2F42;
@@ -115,7 +115,7 @@
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
+    line-height: 1.2;
     letter-spacing: 2%;
     text-align: center;
     color: #2E2F42;
@@ -126,7 +126,7 @@
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 2%;
     color: #434455;
 }
@@ -142,7 +142,7 @@
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     font-size: 36px;
-    line-height: 40px;
+    line-height: 1.11;
     letter-spacing: 2%;
     text-align: center;
     color: #2E2F42;
@@ -153,7 +153,7 @@
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
+    line-height: 1.2;
     letter-spacing: 2%;
     text-align: center;
     color: #2E2F42;
@@ -165,7 +165,7 @@
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 2%;
     text-align: center;
     color: #434455;
@@ -183,7 +183,7 @@
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     font-size: 36px;
-    line-height: 40px;
+    line-height: 1.11;
     letter-spacing: 2%;
     text-align: center;
     color: #2E2F42;
@@ -195,7 +195,7 @@
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 20px;
-    line-height: 24/20;
+    line-height: 1.2;
     letter-spacing: 2%;
     color: #2E2F42;
 }
