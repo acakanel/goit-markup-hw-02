@@ -27,7 +27,7 @@ body {
     color: #2E2F42;
 }
 
-.navs > li > a{
+.logo-1 {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -62,7 +62,11 @@ body {
     color: #404bbf;
 }
 
-.title-1 > h1{
+.title-1{
+    background-color: #2E2F42;
+}
+
+.title-2 {
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     font-size: 56px;
