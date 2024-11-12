@@ -27,7 +27,7 @@ body {
     color: #2E2F42;
 }
 
-.logo-1 {
+.logo-b {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -38,7 +38,7 @@ body {
     text-decoration: none;
 }
 
-.logo-2 {
+.logo-i {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -75,11 +75,11 @@ body {
     color: #404bbf;
 }
 
-.title-1{
+.title-b{
     background-color: #2E2F42;
 }
 
-.title-2 {
+.title-i {
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     font-size: 56px;
@@ -114,7 +114,7 @@ body {
     background-color: #F4F4FD;;
 }
 
-.stwo-1 {
+.stwo-b {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 20px;
@@ -139,7 +139,7 @@ body {
     background-color: #f4f4fd;
 }
 
-.sthree-2 {
+.sthree-i {
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     font-size: 36px;
@@ -150,7 +150,7 @@ body {
     text-transform: capitalize;
 }
 
-.sthree-3 {
+.sthree-u {
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     font-size: 36px;
@@ -161,7 +161,7 @@ body {
     background-color: #FFFFFF;
 }
 
-.sthree-4 {
+.sthree-d {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 20px;
@@ -185,7 +185,7 @@ body {
     list-style-type: none;
 }
 
-.sfour-1 {
+.sfour-b {
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     font-size: 36px;
@@ -196,7 +196,7 @@ body {
     text-transform: capitalize;
 }
 
-.sfour-2 {
+.sfour-i {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 20px;
@@ -205,7 +205,7 @@ body {
     color: #2E2F42;
 }
 
-.sfour-3 {
+.sfour-u {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 16px;
@@ -228,7 +228,7 @@ body {
     background-color: #2E2F42;
 }
 
-.foot-1{
+.foot-b{
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
