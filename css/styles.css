@@ -24,9 +24,11 @@ body {
     text-transform: uppercase;
     text-decoration: none;
 }
-.logo-u {
+.logo > .logo-u {
     color: #2e2f42;
 }
+
+
 
 .logo-b {
     font-family: 'Roboto', sans-serif;
