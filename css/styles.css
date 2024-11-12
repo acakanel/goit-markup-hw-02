@@ -24,7 +24,7 @@ body {
     text-transform: uppercase;
     text-decoration: none;
 }
-.logo > span {
+.logo-u {
     color: #2E2F42;
 }
 
@@ -37,6 +37,13 @@ body {
     color: #2E2F42;
     list-style-type: none;
     text-decoration: none;
+}
+
+.navs > li  {
+    list-style-type: none;
+}
+.adds > ul {
+    list-style-type: none;
 }
 
 .logo-i {
