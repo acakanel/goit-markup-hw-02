@@ -24,7 +24,7 @@ body {
     text-transform: uppercase;
     text-decoration: none;
 }
-.logo > .logo-u {
+span > .logo-u {
     color: #2e2f42;
 }
 
