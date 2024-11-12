@@ -35,7 +35,20 @@ body {
     letter-spacing: 0.02em;
     color: #2E2F42;
     list-style-type: none;
+    text-decoration: none;
 }
+
+.logo-2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+    list-style-type: none;
+    text-decoration: none;
+}
+
 .navs > li > a:focus{
     color: #404bbf;
 }
@@ -149,7 +162,6 @@ body {
 }
 
 .sthree-4 {
-    height: 24px;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 20px;
